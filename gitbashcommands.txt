@@ -1,3 +1,30 @@
+1)After installation of git please create an empty folder(yourname_company) in any drive
+2)go inside the empty folder --> right click --> git bash here --> plese click git bash
+3)you will get git bash command prompt
+4)config your name 
+git config --global user.name "Name"
+5)config your email id
+git config --global user.emial "email"
+6)git init
+7)create one file with the name login.txt in the empty folder 
+8)git add login.txt
+9)git commit -m "login.txt"
+10)git status
+
+To initialize a local repository we need to create a empty file in that we need start as local rep by initializing local repo by init command
+git init
+
+after starting the local repository
+
+create one file in the empty folder(naveen_local_repo) with login.txt
+use add command to add a file
+-->git add login.txt
+
+
+
+
+
+
 Naveen@DESKTOP-SI25UAT MINGW64 /e/naveen_working_dir (master)
 $  git status
 On branch master
