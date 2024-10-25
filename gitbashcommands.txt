@@ -10,3 +10,28 @@ git config --global user.emial "email"
 8)git add login.txt
 9)git commit -m "login.txt"
 10)git status
+11)git remote add origin "https://github.com/NaveenShetter1/learning"
+12)git remote remove origin
+13)git remote add origin "https://github.com/NaveenShetter1/learning"
+14)git push
+16)git status
+17)touch newfile.txt
+18)echo 'Hi this is content of the file' > newfile.txt
+19)ll
+20)git status
+21)git add newfile.txt
+22)git commit -M "adding newfile.txt"
+23)git push
+24)git status
+25)open new folder right click and open git bash here
+26)mkdir deep-learning-notebooks
+27)cd deep-learning-notebooks/
+28)pwd
+29)ll
+30)goto github account and create new repository for deep-learning-notebooks
+31)now in git bash -->git init
+32)git clone git@github.com:NaveenShetter1/deep-learning-notebooks.git
+33)rm -rf deep-learning-notebooks/----->to remove a folder
+34)working directory is ---> current folder in your drive of pc
+35)local repository is ---> master branch
+36)remote repository is ---> main branch
