@@ -35,3 +35,12 @@ git config --global user.emial "email"
 34)working directory is ---> current folder in your drive of pc
 35)local repository is ---> master branch
 36)remote repository is ---> main branch
+
+--how to create a file using git bash and add data to it
+1) echo 'data to input' > filename.txt
+
+-- how to make new file without data
+1) touch filename.txt
+
+--removing file from github using gitbash
+1) go to directory
