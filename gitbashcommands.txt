@@ -44,3 +44,8 @@ git config --global user.emial "email"
 
 --removing file from github using gitbash
 1) go to directory
+
+git rm example.txt
+git commit -m "Removed example.txt"
+git push origin main
+
