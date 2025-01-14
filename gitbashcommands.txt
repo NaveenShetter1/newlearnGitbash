@@ -48,4 +48,4 @@ git config --global user.emial "email"
 git rm example.txt
 git commit -m "Removed example.txt"
 git push origin main
-
+--if one time connected to repository then no need to do again and again 
