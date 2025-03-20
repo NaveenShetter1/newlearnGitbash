@@ -1,0 +1,199 @@
+ 1  ls
+    2  pwd
+    3  ll
+    4  pwdd
+    5  pwd
+    6  ll
+    7  sudo apt update
+    8  ll
+    9  pip install unzip
+   10  host
+   11  hostname
+   12  nslookup 172-31-46-128
+   13  exit
+   14  ll
+   15  sudo apt install unzip
+   16  ll
+   17  pwd
+   18  unzip Diabites_Test_ML_Project.zip
+   19  ll
+   20  cd Diabites_Test_ML_Project/
+   21  ll
+   22  python main.py
+   23  python3 main.py
+   24  pip3 install flask
+   25  sudo apt install flask
+   26  sudo apt upgrade -y
+   27  df -h
+   28  python main.py
+   29  python3 main.py
+   30  nano requirements.txt
+   31  pip install -r requirements.txt
+   32  ls
+   33  cat requirements.txt
+   34  sudo apt update && sudo apt install python3-pip -y
+   35  pip3 --version
+   36  pip3 install -r requirements.txt
+   37  python3 -m venv venv
+   38  exit
+   39  ll
+   40  ls
+   41  ll
+   42  ls
+   43  sudo apt update
+   44  python apt install python3-pip
+   45  sudo apt install python3-pip -y
+   46  pip3 --version
+   47  ls
+   48  sudo apt install unzip
+   49  unzip --version
+   50  unzip -v
+   51  ls
+   52  unzip hello_print.zip
+   53  ls
+   54  mv Diabities_test_project hello_print
+   55  ls
+   56  dir
+   57  ls -lrt
+   58  cd hello_print
+   59  ll
+   60  vi main.py
+   61  ls
+   62  python3 main.py
+   63  vi main.py
+   64  python3 main.py
+   65  pip3 install flask
+   66  python3 -c "import flask; print(flask.__version__)"
+   67  sudo apt install python3-flask -y
+   68  python3 -c "import flask; print(flask.__version__)"
+   69  python3 main.py
+   70  sudo apt install python3-joblib -y
+   71  python3 main.py
+   72  vi main.py
+   73  python3 main.py
+   74  ls
+   75  cd ../
+   76  ls
+   77  cd Diabites_Test_ML_Project
+   78  ls
+   79  python3 main.py
+   80  pip apt install python3-sklearn -y
+   81  sudo apt install python3-sklearn -y
+   82  python3 main.py
+   83  ls
+   84  vi main.py
+   85  python3 main.py
+   86  vi main.py
+   87  python3 main.py
+   88  pip install flask scikit-learn --break-system-packages
+   89  pip install scikit-learn --break-system-packages
+   90  pip install flask --break-system-packages
+   91  python3 main.py
+   92  vi main.py
+   93  python3 main.py
+   94  pip3 install --upgrade --break-system-packages scikit-learn
+   95  python3 main.py
+   96  exit
+   97  ls
+   98  cd hello_print/
+   99  ll
+  100  python3 main.py
+  101  sudo apt update
+  102  sudo apt install python3
+  103  sudo apt install flask
+  104  flask -v
+  105  flask --version
+  106  python --version
+  107  python3 -version
+  108  python3 --version
+  109  sudo apt install joblib
+  110  joblib --version
+  111  joblib -v
+  112  chmod 400 deployment_aws.pem
+  113  cd ../
+  114  chmod 400 deployment_aws.pem
+  115  sudo apt install joblib
+  116  pip3 install joblib
+  117  python3 -m venv venv
+  118  sudo apt install python3-pip
+  119  sudo apt install joblib
+  120  sudo apt install python3-pip --fix-missing
+  121  pip3 --version
+  122  joblib --version
+  123  python3 -c "import joblib; print(joblib.__version__)"
+  124  pip3 install joblib
+  125  sudo apt install python3-joblib
+  126  sudo apt install python3-flask
+  127  sudo apt install python3-sklearn
+  128  sudo apt install python3-unzip
+  129  sudo apt instal unzip
+  130  sudo apt install unzip
+  131  unzip --version
+  132  ll
+  133  sudo apt update
+  134  sudo apt install git -y
+  135  git --version
+  136  ssh-keygen -t rsa -b 4096 -C "shettysnd10@gmail.com"
+  137  ll
+  138  cat keypairgenerated
+  139  cat keypairgenerated.pub
+  140  ll
+  141  cat ~/.ssh/id_rsa.pub
+  142  pwd
+  143  cd .ssh/
+  144  ll
+  145  cd cat ~/.ssh/id_rsa.pub
+  146  cd authorized_keys
+  147  ll
+  148  dir
+  149* cd authorized_keysls -la ~/.ssh/
+  150  ls -la ~/.ssh/
+  151  ll
+  152  cd ..
+  153  ll
+  154  pwd
+  155  cd .ssh/
+  156  pwd
+  157  ll
+  158  ssh-keygen -t rsa -b 4096 -C "shettysnd10@gmail.com"
+  159  ll
+  160  ls -la ~/.ssh/
+  161  cat ~/.ssh/id_rsa.pub
+  162  ssh -T git@github.com
+  163  ll
+  164  ssh-keygen -p -f ~/.ssh/id_rsa
+  165  git clone git@github.com:NaveenShetter1/newlearnGitbash.git
+  166  ll
+  167  cd newlearnGitbash
+  168  ll
+  169  git branch
+  170  git branch naveen
+  171  git branch
+  172  git checkout naveen
+  173  git branch
+  174  ll
+  175  cat gitbashcommands.txt
+  176  git status
+  177  vi gitbashcommands.txt
+  178  history
+  179  cd ../
+  180  vi gitcommands.txt
+  181  git add .
+  182  cd ../
+  183  ll
+  184  git branch
+  185  git clone git clone git@github.com:your-username/your-repo.git
+  186  git clone git@github.com:your-username/your-repo.git
+  187  git clone git@github.com:NaveenShetter1/newlearnGitbash.git
+  188  ll
+  189  git status
+  190  cd newlearnGitbash
+  191  ll
+  192  git status
+  193  git branch
+  194  git branch naveen
+  195  git branch
+  196  git checkout naveen
+  197  git branch
+  198  ll
+  199  history
