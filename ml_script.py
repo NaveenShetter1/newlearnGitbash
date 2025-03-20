@@ -1,3 +1,4 @@
+import numpy as np
 #e ML model (Modify as needed)
 X = np.array([1, 2, 3, 4, 5])
 y = np.array([2, 4, 6, 8, 10])
